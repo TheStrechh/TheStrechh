@@ -3,8 +3,8 @@
 ---
 
 - 📲 Maintainer of LineageOS for [surya](https://wiki.lineageos.org/devices/surya/).
-- 🔭 I’m currently working for Poco X3 NFC.
-- 📱 Devices I own: Redmi Note 7, Poco X3 NFC, Moto X4, Galaxy S6 Edge, Redmi 7A, Redmi Note 8.
+- 🔭 I’m currently working for Poco X3 NFC & Poco X5 Pro 5G.
+- 📱 Devices I own: Poco X5 Pro 5G, Poco X3 NFC, Moto X4.
 - 🌱 I’m currently studying Ing. Robotics.
 - 👯 I’m looking to collaborate on more proyects.
 - 💬 Ask me about | I like soccer and videogames.
